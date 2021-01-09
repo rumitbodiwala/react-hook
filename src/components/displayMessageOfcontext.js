@@ -1,5 +1,6 @@
 import React, { useContext } from 'react';
 import { MessageContext } from "../page/step3";
+import { Row,Col } from 'react-bootstrap';
 
 // const DisplayMessageOfcontext = props => {
 //     return (
