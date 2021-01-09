@@ -11,14 +11,8 @@ Hooks are similar to JavaScript functions, but you need to follow these two rule
 1) useState
 2) useEffect
 3) useContext
-4) Additional Hooks
-5) useRef
-6) useImperativeHandle
-7) useCallback
-8) useMemo
-9) useReducer
-
-
-
-
-
+4) useRef
+5) useImperativeHandle
+6) useCallback
+7) useMemo
+8) useReducer
