@@ -2,7 +2,7 @@
 
 Steps to run project
 1) Open cmd and go to react-hooks-app folder
-2) npm intall
+2) npm install
 3) npm start
 
 react hooks
