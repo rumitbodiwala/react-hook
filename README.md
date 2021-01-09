@@ -5,10 +5,9 @@ Steps to run project
 2) npm install
 3) npm start
 
-<b>Hooks</b>
-  Hooks are the new feature introduced in the the React 16.8  version. It allows you to use state and other React features without writing a class. Hooks are the functions which"hook into" React state and lifecycle features from function components. It does not work inside classes.
-  
-=> Hooks are backward-compatible
+Hooks are the new feature introduced in the the React 16.8  version. It allows you to use state and other React features without writing a class. Hooks are the functions     which"hook into" React state and lifecycle features from function components. It does not work inside classes.
+
+Hooks are backward-compatible.
 
 Hooks are similar to JavaScript functions, but you need to follow these two rules when using them. 
 1. Only call Hooks at the top level.
