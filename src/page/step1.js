@@ -23,8 +23,11 @@ const Step1 = props => {
     const [contactInfo, setContactInfo] = useState({ firstName: '', lastName: '' });
 
     const handleContactInfoChanged = (event) => {
-        const value = event.target.value;
-        const name = event.target.name;
+       
+        // const value = event.target.value;
+       // const name = event.target.name;
+        
+        let {value,name} = event.target;
         setContactInfo({
             ...contactInfo,
             [name]: value
